@@ -1,0 +1,17 @@
+ctrl w  select select
+cntrl shift arrow  move line (rearrange)
+cntrl d  duplicate
+
+double tap word
+tripple tap line
+double tap on start of the bracket
+
+
+cntrl alt arrow (switch btw tabs in inteli)
+select cntrl alt t (try catch if ....etc)
+
+cntrl click and cntrl b go to the definition or usage
+
+cntrl n seacrh class name  only java files
+doubke shift
+cntrl shift n  search non java files
