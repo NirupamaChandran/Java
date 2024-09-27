@@ -13,5 +13,5 @@ select cntrl alt t (try catch if ....etc)
 cntrl click and cntrl b go to the definition or usage
 
 cntrl n seacrh class name  only java files
-doubke shift
+double shift
 cntrl shift n  search non java files
